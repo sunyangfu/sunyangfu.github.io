@@ -1,0 +1,499 @@
+/* Rev 22 May 2014 */
+
+/* Margin top */
+#vb_page.top_margin_true, #vb_page.top_margin_yes {
+	margin-top:50px;
+}
+
+/* GENERAL STYLEZ */
+
+/* Font families */
+.font_family_arial, #vb_page.title_font_family_arial #vb_title, #vb_page.menu_font_family_arial #vb_menu {
+	font-family: "Arial";
+}
+.font_family_verdana, #vb_page.title_font_family_verdana #vb_title, #vb_page.menu_font_family_verdana #vb_menu {
+	font-family: "Verdana";
+}
+.font_family_courier, #vb_page.title_font_family_courier #vb_title, #vb_page.menu_font_family_courier #vb_menu {
+	font-family: "Courier New";
+}
+.font_family_georgia, #vb_page.title_font_family_georgia #vb_title, #vb_page.menu_font_family_georgia #vb_menu {
+	font-family: "Georgia";
+}
+.font_family_lucida, #vb_page.title_font_family_lucida #vb_title, #vb_page.menu_font_family_lucida #vb_menu {
+	font-family: "Lucida Grande","Lucida Sans Unicode","Arial";
+}
+.font_family_palatino, #vb_page.title_font_family_palatino #vb_title, #vb_page.menu_font_family_palatino #vb_menu {
+	font-family: "Palatino Linotype", "Book Antiqua", "Palatino";
+}
+.font_family_times, #vb_page.title_font_family_times #vb_title, #vb_page.menu_font_family_times #vb_menu {
+	font-family: "Times New Roman, Times";
+}
+
+/* Font sizes */
+.font_size_1, #vb_page.title_font_size_1 #vb_title h1, #vb_page.menu_font_size_1 #vb_menu, #vb_page.menu_font_size_1 .p_specs h5 {
+  font-size: 11px;
+	line-height:16px;
+}
+#vb_page.font_size_1 #vb_info_container h4 {font-size:13px;}
+
+.font_size_2, #vb_page.title_font_size_2 #vb_title h1, #vb_page.menu_font_size_2 #vb_menu, #vb_page.menu_font_size_2 .p_specs h5 {
+	font-size: 12px;
+	line-height:17px;
+}
+#vb_page.font_size_2 #vb_info_container h4 {font-size:14px;}
+
+.font_size_3, #vb_page.title_font_size_3 #vb_title h1, #vb_page.menu_font_size_3 #vb_menu, #vb_page.menu_font_size_3 .p_specs h5 {
+  font-size: 14px;
+	line-height:19px;
+}
+#vb_page.font_size_3 #vb_info_container h4 {font-size:16px;}
+
+.font_size_4, #vb_page.title_font_size_4 #vb_title h1, #vb_page.menu_font_size_4 #vb_menu, #vb_page.menu_font_size_4 .p_specs h5 {
+  font-size: 16px;
+	line-height:21px;
+}
+#vb_page.font_size_4 #vb_info_container h4 {font-size:18px;}
+
+.font_size_5, #vb_page.title_font_size_5 #vb_title h1, #vb_page.menu_font_size_5 #vb_menu, #vb_page.menu_font_size_5 .p_specs h5 {
+  font-size: 19px;                                                                                                                    
+	line-height:24px;
+}          
+#vb_page.font_size_5 #vb_info_container h4 {font-size:21px;}                                                                                                                             
+
+.font_size_6, #vb_page.title_font_size_6 #vb_title h1, #vb_page.menu_font_size_6 #vb_menu, #vb_page.menu_font_size_6 .p_specs h5 {
+  font-size: 24px;                                                                                                                    
+	line-height:29px;
+}  
+#vb_page.font_size_6 #vb_info_container h4 {font-size:26px;}                                                                                                                                     
+
+.font_size_7, #vb_page.title_font_size_7 #vb_title h1, #vb_page.menu_font_size_7 #vb_menu, #vb_page.menu_font_size_7 .p_specs h5 {
+  font-size: 30px;
+	line-height: 35px;
+}
+#vb_page.font_size_7 #vb_info_container h4 {font-size:34px;}    
+
+.font_size_8, #vb_page.title_font_size_8 #vb_title h1, #vb_page.menu_font_size_8 #vb_menu, #vb_page.menu_font_size_8 .p_specs h5 {
+  font-size: 36px;
+	line-height:41px;
+}
+#vb_page.font_size_8 #vb_info_container h4 {font-size:40px;}
+
+
+/*************************** TEMPLATES **************************/
+#vb_page.content_type_collection #vb_thumbs_container {
+	display:block;
+}
+#vb_page.content_type_text #vb_text_content {
+	display:block;	
+}
+#vb_page.content_type_text.text_columns_1  #vb_text_content{-moz-column-count:1; -webkit-column-count:1; column-count:1;}
+#vb_page.content_type_text.text_columns_2  #vb_text_content{-moz-column-count:2; -webkit-column-count:2; column-count:2;}
+#vb_page.content_type_text.text_columns_3  #vb_text_content{-moz-column-count:3; -webkit-column-count:3; column-count:3;}
+#vb_page.content_type_text.text_columns_4  #vb_text_content{-moz-column-count:4; -webkit-column-count:4; column-count:4;}
+
+#vb_page.content_type_album #vb_album_content {
+	display:block;
+}
+
+
+/*************************** THUMB SIZES **************************/
+/* thumb*/
+#vb_page.thumbnails_size_thumb .p_item div{
+	width:160px;
+	height:160px;
+	margin-right:6px;
+}
+/* prevent floating issues with long titles */
+#vb_page.thumbnails_size_thumb .p_item {
+	height:190px;	
+}
+
+
+#vb_page.thumbnails_size_thumb .p_item .p_specs{
+	width:160px;
+	height:16px;
+}
+/* small*/
+#vb_page.thumbnails_size_small .p_item div{
+	width:272px;
+	height:130px;
+}
+#vb_page.thumbnails_size_small .p_item .p_specs{
+	width:270px;
+	height:45px;
+}
+/* small square */
+#vb_page.thumbnails_size_small_square .p_item div{
+	width:272px;
+	height:272px;
+	margin-right:20px;
+}
+
+/* exception for top lay out*/
+#vb_page.menu_position_top .p_item div{
+	margin-right:2px;
+}
+
+#vb_page.thumbnails_size_small_square .p_item .p_specs{
+	width:270px;
+	height:20px;
+}
+/* wide*/
+#vb_page.thumbnails_size_wide .p_item div{
+	width:550px;
+	height:130px;
+}
+#vb_page.thumbnails_size_wide .p_item .p_specs{
+	width:548px;
+	height:45px;
+}
+/* large*/
+#vb_page.thumbnails_size_large .p_item div{
+	width:550px;
+	height:300px;
+}
+#vb_page.thumbnails_size_large .p_item .p_specs{
+	width:548px;
+	height:45px;
+}
+
+
+
+/*************************** POSITIONING / LAYOUR **************************/
+
+/* Page scaling */
+#vb_page.page_scaling_fixed, #vb_page.menu_position_left.page_scaling_no {
+	max-width:935px;
+}
+#vb_page.page_scaling_fixed, #vb_page.menu_position_right.page_scaling_no {
+	max-width:935px;
+}
+#vb_page.page_scaling_fixed, #vb_page.menu_position_top.page_scaling_top_no {
+	max-width:935px;
+}
+
+
+/* MENU LEFT  */
+#vb_page.menu_position_left.left_margin_yes {
+	margin-left:60px;
+}
+
+#vb_page.menu_position_left.left_margin_yes.page_align_yes {
+	margin-left:auto;
+}
+
+/* Title */
+#vb_page.menu_position_left #vb_title {
+	left:285px;
+	height:30px;
+	text-align:left;
+}
+/* Logo */
+#vb_page.menu_position_left #vb_logo  {	
+	position:relative;
+	width:270px;
+}
+/* Menu */
+#vb_page.menu_position_left #vb_menu {
+	position:relative;
+	margin-top:42px;
+	width:340px;
+}
+/* Text */
+#vb_page.menu_position_left #vb_info_container {
+	width:220px;
+	padding-right:40px;
+}
+/* Main Content */
+#vb_page.menu_position_left .main_content {
+	top:140px;
+	left:285px;
+	width:550px; /* for IE6 */
+	width:68%;	
+	height:75%;
+	min-height:450px;
+	padding-right:30px;
+	/*ru 20121211*/
+	width:auto;
+	right:0px;
+}
+
+/* MENU RIGHT */
+
+/* Title */
+#vb_page.menu_position_right #vb_title {
+	width:500px;
+	height:40px;
+}
+/* Logo */
+#vb_page.menu_position_right #vb_logo  {
+	position:relative;
+	float:right;
+	width:340px;
+}
+#vb_page.menu_position_right.logo_retina_yes #vb_logo  {
+}
+
+/* Menu */
+#vb_page.menu_position_right #vb_menu {
+	position:relative;
+	clear:right;
+	float:right;
+  top:32px;
+	width:340px;
+	z-index:10;
+}
+/* Text */
+#vb_page.menu_position_right #vb_info_container {
+	position:relative;
+	clear:right;
+	float:right;	
+	width:310px;
+	padding-right:30px;
+	margin-top: 35px;
+}
+
+#vb_page.menu_position_right #vb_info_container h4 {
+ 	margin-top:6px;
+}
+
+
+#vb_page.menu_position_right.text_full_width_yes #vb_text_content{
+  width:500px;
+}
+
+/* Main Content */
+#vb_page.menu_position_right .main_content {
+	top:130px;
+	/*width:60%;*/
+	height:75%;
+	/*min-width:600px;*/ /*575*/
+	/*width: expression(this.width < 500 ? 500 : true);*/  /* IE6 */
+	/*ru 20121211*/
+	min-width: 600px;
+	width:auto;
+	left:0px;
+	right:380px;
+}
+
+
+
+/* MENU TOP */
+
+/* Canvas */
+#vb_page.menu_position_top {
+  width:842px;
+  min-width:842px;
+}
+
+/* thumbs */
+#vb_page.menu_position_top .thumbnail_size_small .p_item div{
+	margin-right:30px;
+}
+/* Title */
+#vb_page.menu_position_top #vb_title {
+	display:none;
+}
+/* Logo */
+#vb_page.menu_position_top #vb_logo  {
+	left:0px;	
+	width:300px;
+
+}
+
+/* Menu */
+#vb_page.menu_position_top #vb_menu {
+  top:20px;
+  /* scalable top 2012 *** */
+  right:0;
+  width:540px;
+}
+
+
+
+
+#vb_page.menu_position_top #vb_menu li {
+	float:right;
+	margin-left:10px;
+}
+/* Thumbs container Styles */
+#vb_page.menu_position_top #vb_thumbs_container {
+	width:100%;
+}
+/* Text */
+#vb_page.menu_position_top #vb_info_container {
+	/* No text in this template */
+	display:none;
+}
+
+#vb_page.menu_position_top .main_content {
+  top:130px;
+  width:100%;
+  left:0px;
+}
+
+
+/* ALbum */
+#vb_page #vb_album_content {
+  width: 100%;
+  height: 100%;
+}
+
+#vb_page.menu_position_top #vb_album_content {
+  width: 100%;
+  height: auto;
+}
+
+#vb_page .vb_album_container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  margin-bottom: 52px;
+}
+
+#vb_page.menu_position_top .vb_album_container, #vb_page:not(.page_scaling_yes) .vb_album_container {
+  padding-bottom: 70.24%;
+  height: 0;
+  overflow: hidden;
+}
+
+/* embed, object, iframe, open-album container, anything */
+#vb_page .vb_album_container embed, #vb_page .vb_album_container object, #vb_page .vb_album_container .album_poster_image, #vb_page .vb_album_container iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+/* open album button */
+#vb_page .vb_album_container .open_album {
+  position: absolute;
+  left:14px;
+  top: 10px;
+  z-index:1;
+}
+
+#vb_page.menu_position_top.text_full_width_yes #vb_text_content{
+/*  width:840px;*/
+}
+
+
+/* NO MENU - GALLERY THEME */
+
+/* Canvas */
+#vb_page.menu_position_gallery {
+	width:790px;
+}
+/* thumbs */
+#vb_page.menu_position_gallery .thumbnail_size_small .p_item div{
+	margin-right:30px;
+}
+
+#vb_page.menu_position_gallery #vb_title {
+	display:block;
+	left:30px;
+}
+/* Logo */
+#vb_page.menu_position_gallery #vb_logo {
+	left:560px;	
+	width:300px;
+}
+/* Menu */
+#vb_page.menu_position_gallery #vb_menu {
+	display:none;
+}
+
+/* Thumbs container Styles */
+#vb_page.menu_position_gallery #vb_thumbs_container {
+	width:100%;
+}
+/* Text */
+#vb_page.menu_position_gallery #vb_info_container {
+	/* No text in this template */
+	display:none;
+}
+/* Main Content */
+#vb_page.menu_position_gallery .main_content {
+	top:130px;
+	width:840px;
+	left:30px;
+}
+
+
+
+
+/* OTHER */
+
+/* Visibility */
+#vb_page.title_visibility_hidden #vb_title, #vb_page.title_visibility_yes #vb_title {
+	display:none;
+}
+#vb_page.thumbnails_date_visibility_hidden .presentation_date{   
+	display:none;
+}
+#vb_page.menu_visibility_hidden_yes #vb_menu{   
+	display:none;
+}
+
+#vb_page.thumbnails_hide_name_yes .p_specs h5 {
+	display:none;
+}
+
+/* even een snele fix */
+#vb_page .presentation_date{   
+	display:none;
+}
+
+#vb_page.logo_visibility_hidden #vb_logo, #vb_page.logo_visibility_yes #vb_logo {
+	visibility:hidden;
+}
+
+#vb_page #vb_logo > a{
+  overflow:hidden;
+  display:block;
+  width:100%;
+  height:100%;
+}
+
+#vb_page.logo_retina_yes #vb_logo img{
+  zoom:0.5;
+  -moz-transform-origin: 0 0;
+  -moz-transform:scale(0.5);
+}
+
+/* Center page */
+#vb_page.page_align_center, #vb_page.page_align_center #w_footer, #vb_page.page_align_yes, #vb_page.page_align_yes #w_footer {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#vb_page.page_align_left, #vb_page.page_align_left #w_footer {
+	margin-left:60px;
+}
+
+
+/* main content scaling */
+#vb_page.page_scaling_scale .main_content{
+	width:68%;
+}
+
+/* album should not scale too much */
+#vb_page.page_scaling_scale #vb_album_content{ 
+	/*width:90%;*/
+}
+
+#vb_page.menu_position_top.page_scaling_top_yes {
+  width:auto;
+}
+
+@media screen and (min-width:441px) {
+	#vb_page.page_scaling_yes.menu_position_right .main_content{
+		width: auto;
+		right: 380px;
+		left: 0;
+	}
+	#vb_page.page_scaling_yes.menu_position_left .main_content{
+		width: auto;
+		right: 0;
+	}
+}

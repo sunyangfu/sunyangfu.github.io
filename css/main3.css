@@ -1,0 +1,191 @@
+/* Rev 26 Nov 2012 */
+.page-body, #middle_page_template_source {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+/* The container of the page, can be centered */
+#vb_page {
+	/*position the content using the wrapper as reference point. This is due to the fact that an element with position:relative applied to it forces every element inside it (the so called child element) to use the parent as reference, not the viewport (the part of the browser in which a web page is displayed). */
+	position:relative;
+	height: 100%;
+	width: expression(this.width < 950 ? 950: true); /* IE6 */
+	min-width:950px;
+	text-align:left;
+}
+
+/* Movable elements */
+
+/* Title */
+#vb_page #vb_title {
+	position:absolute;
+	top:38px;
+}
+
+#vb_page #vb_title h1 {
+	display:table-cell;
+	height:42px;
+	vertical-align:bottom;
+	margin:0;
+	padding-bottom:2px; /* On ie it cuts og the g, y */
+	font-weight:normal;
+	overflow:visible;
+}
+ 
+#vb_page #vb_info_container h4 {
+	font-weight:normal;
+	margin-bottom:7px;
+}
+
+/* Logo */
+#vb_page #vb_logo  {
+	position:absolute;
+	overflow:hidden;
+	height:98px;
+}
+#vb_page #vb_logo img{
+	border:0;
+}
+
+/* Menu */
+#vb_page #vb_menu  {
+	position:absolute;	
+	margin:0;
+	margin-bottom:20px;
+	padding:0;
+}
+#vb_page #vb_menu li {
+	list-style:none;
+}
+#vb_page #vb_menu li a {
+	text-decoration:none;
+}
+
+#vb_page #vb_menu li a.active {
+}
+
+#vb_page #vb_menu li a:hover {
+}
+
+/* Main content: thumbs, album or text */
+#vb_page .main_content {
+	position:absolute;	
+	min-height:400px;
+}
+
+/* Info text */
+#vb_page #vb_info_container {
+	position:absolute;	
+}
+
+
+
+ 
+/* Text content */
+#vb_page #vb_text_content {
+	width:400px;
+	padding-right:150px;
+}
+
+
+#vb_page #vb_text_content, #vb_page #vb_album_content, #vb_page #vb_thumbs_container  {
+	display:none;
+}
+
+#vb_page.content_type_text.text_full_width_yes #vb_text_content {
+  width:100%;
+}
+
+
+
+/* Thumbs container Styles */
+#vb_page #vb_thumbs_container {
+	margin:0;
+	padding:0;
+	width:100%;
+}
+         
+#vb_page #vb_thumbs_container .p_item {
+	display:block;
+	float:left;
+	margin-right:6px;
+	margin-bottom:20px;
+}
+     
+#vb_page #vb_thumbs_container .p_item:hover .p_specs a{
+
+	filter:alpha(opacity=50);
+			-moz-opacity:0.50;
+			-khtml-opacity: 0.50;
+			opacity: 0.50;
+}
+         
+#vb_page #vb_thumbs_container .p_specs {
+	padding-top:4px;
+}                                
+
+#vb_page #vb_thumbs_container .p_specs h5 {
+	margin:0;
+	float:left;
+	width: 100%;
+}
+
+#vb_page #vb_thumbs_container .p_specs h5 a {
+	font-weight: normal;
+	text-decoration:none;
+	white-space: nowrap;
+  overflow: hidden;
+  display: block;
+  text-overflow: ellipsis;
+} 	    
+
+#vb_page #vb_thumbs_container .presentation_date{   
+	font-size: 11px;  
+}
+
+
+/* Footer */
+/* must be the same height as the footer, see http://ryanfait.com/sticky-footer/*/
+#vb_page .push {
+	height:50px; 
+	clear:both;
+} 
+#vb_footer {
+	height:50px;
+	bottom:0px;
+	font-size:10px;
+	font-weight:normal;
+	color:inherit;	
+	text-align:left;
+}
+
+#vb_footer {
+}
+
+/* DEFAUL STYLES */
+#vb_page a, #vb_page a:visited, #vb_footer a, #vb_footer a:visited {
+	color:inherit;
+}
+
+/* IE does not support the inherit propery, use an expression */
+#vb_page a, #vb_page a:visited, #vb_footer a, #vb_footer a:visited {
+	color: expression(this.parentNode.currentStyle.color); 
+}
+
+img {
+	border:0;
+}
+
+embed {
+	outline:none;
+}
+
+.poweredby, a.poweredby {
+	text-decoration:none;
+}
+
+
+
+
+
+
