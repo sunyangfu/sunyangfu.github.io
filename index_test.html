@@ -7,12 +7,12 @@
 
 var width = 960,
     height = 136,
-    cellSize = 17;
+    cellSize = 11;
 
 var formatPercent = d3.format(".1%");
 
 var color = d3.scaleQuantize()
-    .domain([-0.05, 0.05])
+    .domain([-1, 1])
     .range(["#a50026", "#d73027", "#f46d43", "#fdae61", "#fee08b", "#ffffbf", "#d9ef8b", "#a6d96a", "#66bd63", "#1a9850", "#006837"]);
 
 var svg = d3.select("body")
