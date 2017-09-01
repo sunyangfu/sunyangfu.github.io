@@ -56,7 +56,7 @@ d3.csv("https://chrisanglebao.github.io/sunyangfu/data/dji.csv", function(error,
       .key(function(d) { return d.Date; })
       .rollup(function(d) { return (d[0].Close - d[0].Open) / d[0].Open; })
     .object(csv);
-
+  console.log(data)
   rect.filter(function(d) { return d in data; })
       .attr("fill", function(d) { return color(data[d]); })
     .append("title")
@@ -67,6 +67,7 @@ function pathMonth(t0) {
   var t1 = new Date(t0.getFullYear(), t0.getMonth() + 1, 0),
       d0 = t0.getDay(), w0 = d3.timeWeek.count(d3.timeYear(t0), t0),
       d1 = t1.getDay(), w1 = d3.timeWeek.count(d3.timeYear(t1), t1);
+
   return "M" + (w0 + 1) * cellSize + "," + d0 * cellSize
       + "H" + w0 * cellSize + "V" + 7 * cellSize
       + "H" + w1 * cellSize + "V" + (d1 + 1) * cellSize
