@@ -7,7 +7,7 @@ var width = 960,
     height = 136,
     cellSize = 17;
 
-var formatPercent = d3.format(".1%");
+var formatPercent = d3.format(".01%");
 
 var color = d3.scaleQuantize()
     .domain([-0.05, 0.05])
@@ -49,7 +49,7 @@ svg.append("g")
   .enter().append("path")
     .attr("d", pathMonth);
 
-d3.csv("https://github.com/Chrisanglebao/sunyangfu/blob/master/data/d_ori.csv", function(error, csv) {
+d3.csv("https://chrisanglebao.github.io/sunyangfu/data/test.csv", function(error, csv) {
   if (error) throw error;
 
   var data = d3.nest()
