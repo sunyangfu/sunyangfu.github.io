@@ -7,7 +7,7 @@ var width = 960,
     height = 136,
     cellSize = 17;
 
-var formatPercent = d3.format("10%");
+var formatPercent = d3.format(".1%");
 
 var color = d3.scaleQuantize()
     .domain([-0.05, 0.05])
@@ -38,10 +38,7 @@ var rect = svg.append("g")
     .attr("width", cellSize)
     .attr("height", cellSize)
     .attr("x", function(d) { return d3.timeWeek.count(d3.timeYear(d), d) * cellSize; })
-
     .attr("y", function(d) { return d.getDay() * cellSize; })
-
-
     .datum(d3.timeFormat("%Y-%m-%d"));
 
 svg.append("g")
@@ -52,7 +49,7 @@ svg.append("g")
   .enter().append("path")
     .attr("d", pathMonth);
 
-d3.csv("https://chrisanglebao.github.io/sunyangfu/data/dji.csv", function(error, csv) {
+d3.csv("https://chrisanglebao.github.io/sunyangfu/data/d_ori.csv", function(error, csv) {
   if (error) throw error;
 
   var data = d3.nest()
@@ -71,6 +68,7 @@ function pathMonth(t0) {
       d0 = t0.getDay(), w0 = d3.timeWeek.count(d3.timeYear(t0), t0),
       d1 = t1.getDay(), w1 = d3.timeWeek.count(d3.timeYear(t1), t1);
 
+
   return "M" + (w0 + 1) * cellSize + "," + d0 * cellSize
       + "H" + w0 * cellSize + "V" + 7 * cellSize
       + "H" + w1 * cellSize + "V" + (d1 + 1) * cellSize
@@ -78,8 +76,8 @@ function pathMonth(t0) {
       + "H" + (w0 + 1) * cellSize + "Z";
 }
 
-
 </script>
+
 
 
 
