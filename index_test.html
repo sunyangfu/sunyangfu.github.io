@@ -56,8 +56,10 @@ d3.csv("https://chrisanglebao.github.io/sunyangfu/data/dji.csv", function(error,
 
   var data = d3.nest()
       .key(function(d) { return d.Date; })
-      .rollup(function(d) { return (d[0].Close - d[0].Open) / d[0].Open; })
+      .rollup(function(d) { return d.Open; })
     .object(csv);
+
+
 
   rect.filter(function(d) { return d in data; })
       .attr("fill", function(d) { return color(data[d]); })
