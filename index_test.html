@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <body>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -12,7 +10,7 @@ var width = 960,
 var formatPercent = d3.format(".1%");
 
 var color = d3.scaleQuantize()
-    .domain([-4, 4])
+    .domain([-0.05, 0.05])
     .range(["#a50026", "#d73027", "#f46d43", "#fdae61", "#fee08b", "#ffffbf", "#d9ef8b", "#a6d96a", "#66bd63", "#1a9850", "#006837"]);
 
 var svg = d3.select("body")
@@ -51,15 +49,13 @@ svg.append("g")
   .enter().append("path")
     .attr("d", pathMonth);
 
-d3.csv("https://chrisanglebao.github.io/sunyangfu/data/dji.csv", function(error, csv) {
+d3.csv("https://chrisanglebao.github.io/sunyangfu/data/dji_.csv", function(error, csv) {
   if (error) throw error;
 
   var data = d3.nest()
       .key(function(d) { return d.Date; })
-      .rollup(function(d) { return d.Open; })
+      .rollup(function(d) { return (d[0].Close - d[0].Open) / d[0].Open; })
     .object(csv);
-
-
 
   rect.filter(function(d) { return d in data; })
       .attr("fill", function(d) { return color(data[d]); })
