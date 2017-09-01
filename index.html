@@ -130,7 +130,7 @@ var width = 960,
     height = 136,
     cellSize = 17;
 
-var formatPercent = d3.format(".1%");
+var formatPercent = d3.format("10%");
 
 var color = d3.scaleQuantize()
     .domain([-0.05, 0.05])
@@ -178,11 +178,11 @@ d3.csv("dji.csv", function(error, csv) {
   var data = d3.nest()
       .key(function(d) { return d.Date; })
       .rollup(function(d) { return (d[0].Close - d[0].Open) / d[0].Open; })
-    .object(csv);
+      .object(csv);
 
   rect.filter(function(d) { return d in data; })
       .attr("fill", function(d) { return color(data[d]); })
-    .append("title")
+      .append("title")
       .text(function(d) { return d + ": " + formatPercent(data[d]); });
 });
 
