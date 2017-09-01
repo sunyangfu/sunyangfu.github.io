@@ -49,7 +49,7 @@ svg.append("g")
   .enter().append("path")
     .attr("d", pathMonth);
 
-d3.csv("https://chrisanglebao.github.io/sunyangfu/data/dji_.csv", function(error, csv) {
+d3.csv("https://chrisanglebao.github.io/sunyangfu/data/dji.csv", function(error, csv) {
   if (error) throw error;
 
   var data = d3.nest()
