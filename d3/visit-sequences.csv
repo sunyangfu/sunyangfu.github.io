@@ -1,109 +1,108 @@
-Deep learning_Disease_ Genetic Predisposition To Disease__clinical notes,1
-Deep learning_Disease_ Heart Failure__clinical notes,3
-Deep learning_Disease_ Heart Failure__echo reports,1
-Deep learning_Disease_ Influenza__clinical notes,1
-Deep learning_Disease_ Ischemia__clinical notes,1
-Deep learning_Disease_ Lung Neoplasms__pathology reports,1
-Deep learning_Patient management or identification_ Heart Failure__echo reports,1
-Dictionary based_Disease_ Multiple Sclerosis__clinical notes,3
-Dictionary based_Disease_ Obesity__i2b2 corpus,3
-Dictionary based_Disease__ Drug Hypersensitivity_clinical notes,1
-Dictionary based_Drug__ Drug Prescriptions_i2b2 corpus,1
-Hybrid_Data privacy___i2b2 corpus,1
-Hybrid_Disease_ Adenocarcinoma__clinical notes,1
-Hybrid_Disease_ Adenocarcinoma__pathology reports,1
-Hybrid_Disease_ Autistic Disorder__clinical notes,1
-Hybrid_Disease_ Breast Neoplasms__pathology notes,1
-Hybrid_Disease_ Cardiovascular Diseases__i2b2 corpus,1
-Hybrid_Disease_ Colorectal Neoplasms__,1
-Hybrid_Disease_ Pneumonia__clinical notes,2
-Hybrid_Disease_ Rare Diseases__clinical notes,1
-Hybrid_Disease_ Suicide__discharge summaries,1
-Hybrid_Disease___clinical notes,5
-Hybrid_Disease___Merck Manual,1
-Hybrid_Disease___microbiology reports,1
-Hybrid_Disease___radiology reports,2
-Hybrid_Drug_ Diabetes Mellitus_ Drug Repositioning_clinical notes,1
-Hybrid_Drug__ Drug Dosage Calculations_clinical notes,1
-Hybrid_Drug__ Drug Prescriptions_discharge summaries,1
-Hybrid_Drug___clinical notes,1
-Hybrid_Measurement value___clinical notes,1
-Hybrid_Measurement value___radiology reports,1
-Hybrid_Others/NA___BIONLP/NLPBPA,1
-Hybrid_Others/NA___clinical notes,3
-Hybrid_Others/NA___i2b2 corpus,1
-Hybrid_Patient management or identification___,1
-Hybrid_Quality control___clinical notes,1
-Hybrid_Risk factor_ Carotid Stenosis__radiology reports,1
-Hybrid_Social determinants of health_ Asthma__i2b2 corpus,1
-Hybrid_Social determinants of health___clinical notes,2
-Others_Disease_ Colorectal Surgery__operative notes,1
-Others_Disease___radiology reports,2
-Others_Disease_Tumor__radiology reports,1
-Others_Drug__ Adverse Drug Reaction Reporting Systems_clinical notes,1
-Others_Others/NA___,1
-Others_Patient management or identification_ Depression__discharge summaries,1
-Others_Risk factor_ Cardiovascular Diseases__i2b2 corpus,1
-Others_Social determinants of health___Vanderbilt Synthetic Derivative,1
-Rule based_Disease_ Appendicitis__radiology reports,1
-Rule based_Disease_ Brain Diseases__radiology reports,1
-Rule based_Disease_ Breast Neoplasms__radiology reports,1
-Rule based_Disease_ Cardiovascular Diseases__i2b2 corpus,2
-Rule based_Disease_ Colonoscopy__clinical notes,1
-Rule based_Disease_ Colorectal Neoplasms__clinical notes,1
-Rule based_Disease_ Communicable Diseases__encounter notes,1
-Rule based_Disease_ Coronary Artery Disease__i2b2 corpus,1
-Rule based_Disease_ Diabetes Mellitus__clinical notes,1
-Rule based_Disease_ Disease Progression__clinical notes,1
-Rule based_Disease_ Disorder__CLEF,1
-Rule based_Disease___,1
-Rule based_Disease___CLEF,1
-Rule based_Disease___clinical notes,4
-Rule based_Disease___MIMIC,1
-Rule based_Disease___radiology report,1
-Rule based_Disease___radiology reports,2
-Rule based_Drug_ Arthritis_ Adverse Drug Reaction Reporting Systems_clinical notes,1
-Rule based_Drug_ Opioid-Related Disorders_ Analgesics_clinical notes,1
-Rule based_Drug__ Adverse Drug Reaction Reporting Systems_clinical notes,1
-Rule based_Drug__ Drug Therapy_i2b2 corpus,1
-Rule based_Drug___i2b2 corpus,3
-Rule based_Others/NA___,2
-Rule based_Others/NA___BioInfer,1
-Rule based_Others/NA___CLEF,1
-Rule based_Others/NA___clinical notes,6
-Rule based_Others/NA___i2b2 corpus,5
-Rule based_Others/NA___psychiatric evaluation records,1
-Rule based_Patient management or identification_ epilepsy and seizure__discharge summaries,1
-Rule based_Patient management or identification___,1
-Rule based_Patient management or identification___clinical notes,2
-Rule based_Patient management or identification___radiology reports,1
-Rule based_Quality control_ Adenocarcinoma__pathology reports,1
-Rule based_Quality control___clinical notes,1
-Rule based_Risk factor_ Cardiovascular Diseases__i2b2 corpus,1
-Rule based_Risk factor___CEGS,1
-Rule based_Risk factor___clinical notes,1
-Rule based_Social determinants of health_ Diabetes__encounter notes,1
-Rule based_Social determinants of health___,1
-Rule based_Workflow optimization___i2b2 corpus,1
-Tranditional ML_Data privacy___CEGS N-GRID,2
-Tranditional ML_Data privacy___clinical notes,2
-Tranditional ML_Disease_ Angiotensin Receptor Antagonists_ Drug Prescriptions_clinical notes,1
-Tranditional ML_Disease_ Brain Injuries__radiology report,1
-Tranditional ML_Disease_ Diabetes Mellitus__i2b2 corpus,1
-Tranditional ML_Disease_ Epilepsy__discharge summaries,1
-Tranditional ML_Disease___CLEF,1
-Tranditional ML_Disease___clinical notes,4
-Tranditional ML_Disease___i2b2 corpus,2
-Tranditional ML_Disease___pathology reports,1
-Tranditional ML_Drug__ Adverse Drug Reaction Reporting Systems_clinical notes,1
-Tranditional ML_Drug___CLEF,1
-Tranditional ML_Drug___i2b2 corpus,3
-Tranditional ML_Others/NA___clinical notes,1
-Tranditional ML_Others/NA___discharge summaries,1
-Tranditional ML_Others/NA___i2b2 corpus,5
-Tranditional ML_Others/NA___MIMIC,2
-Tranditional ML_Others/NA___SemEval,1
-Tranditional ML_Patient management or identification_ Diabetes Mellitus__clinical notes,1
-Tranditional ML_Patient management or identification___clinical notes,2
-Tranditional ML_Workflow optimization___clinical notes,1
-Grand Total,156
+Deep learning-Disease- Genetic Predisposition To Disease--clinical notes,1
+Deep learning-Disease- Heart Failure--clinical notes,3
+Deep learning-Disease- Heart Failure--echo reports,1
+Deep learning-Disease- Influenza--clinical notes,1
+Deep learning-Disease- Ischemia--clinical notes,1
+Deep learning-Disease- Lung Neoplasms--pathology reports,1
+Deep learning-Patient management or identification- Heart Failure--echo reports,1
+Dictionary based-Disease- Multiple Sclerosis--clinical notes,3
+Dictionary based-Disease- Obesity--i2b2 corpus,3
+Dictionary based-Disease-- Drug Hypersensitivity-clinical notes,1
+Dictionary based-Drug-- Drug Prescriptions-i2b2 corpus,1
+Hybrid-Data privacy---i2b2 corpus,1
+Hybrid-Disease- Adenocarcinoma--clinical notes,1
+Hybrid-Disease- Adenocarcinoma--pathology reports,1
+Hybrid-Disease- Autistic Disorder--clinical notes,1
+Hybrid-Disease- Breast Neoplasms--pathology notes,1
+Hybrid-Disease- Cardiovascular Diseases--i2b2 corpus,1
+Hybrid-Disease- Colorectal Neoplasms--,1
+Hybrid-Disease- Pneumonia--clinical notes,2
+Hybrid-Disease- Rare Diseases--clinical notes,1
+Hybrid-Disease- Suicide--discharge summaries,1
+Hybrid-Disease---clinical notes,5
+Hybrid-Disease---Merck Manual,1
+Hybrid-Disease---microbiology reports,1
+Hybrid-Disease---radiology reports,2
+Hybrid-Drug- Diabetes Mellitus- Drug Repositioning-clinical notes,1
+Hybrid-Drug-- Drug Dosage Calculations-clinical notes,1
+Hybrid-Drug-- Drug Prescriptions-discharge summaries,1
+Hybrid-Drug---clinical notes,1
+Hybrid-Measurement value---clinical notes,1
+Hybrid-Measurement value---radiology reports,1
+Hybrid-Others/NA---BIONLP/NLPBPA,1
+Hybrid-Others/NA---clinical notes,3
+Hybrid-Others/NA---i2b2 corpus,1
+Hybrid-Patient management or identification---,1
+Hybrid-Quality control---clinical notes,1
+Hybrid-Risk factor- Carotid Stenosis--radiology reports,1
+Hybrid-Social determinants of health- Asthma--i2b2 corpus,1
+Hybrid-Social determinants of health---clinical notes,2
+Others-Disease- Colorectal Surgery--operative notes,1
+Others-Disease---radiology reports,2
+Others-Disease-Tumor--radiology reports,1
+Others-Drug-- Adverse Drug Reaction Reporting Systems-clinical notes,1
+Others-Others/NA---,1
+Others-Patient management or identification- Depression--discharge summaries,1
+Others-Risk factor- Cardiovascular Diseases--i2b2 corpus,1
+Others-Social determinants of health---Vanderbilt Synthetic Derivative,1
+Rule based-Disease- Appendicitis--radiology reports,1
+Rule based-Disease- Brain Diseases--radiology reports,1
+Rule based-Disease- Breast Neoplasms--radiology reports,1
+Rule based-Disease- Cardiovascular Diseases--i2b2 corpus,2
+Rule based-Disease- Colonoscopy--clinical notes,1
+Rule based-Disease- Colorectal Neoplasms--clinical notes,1
+Rule based-Disease- Communicable Diseases--encounter notes,1
+Rule based-Disease- Coronary Artery Disease--i2b2 corpus,1
+Rule based-Disease- Diabetes Mellitus--clinical notes,1
+Rule based-Disease- Disease Progression--clinical notes,1
+Rule based-Disease- Disorder--CLEF,1
+Rule based-Disease---,1
+Rule based-Disease---CLEF,1
+Rule based-Disease---clinical notes,4
+Rule based-Disease---MIMIC,1
+Rule based-Disease---radiology report,1
+Rule based-Disease---radiology reports,2
+Rule based-Drug- Arthritis- Adverse Drug Reaction Reporting Systems-clinical notes,1
+Rule based-Drug- Opioid-Related Disorders- Analgesics-clinical notes,1
+Rule based-Drug-- Adverse Drug Reaction Reporting Systems-clinical notes,1
+Rule based-Drug-- Drug Therapy-i2b2 corpus,1
+Rule based-Drug---i2b2 corpus,3
+Rule based-Others/NA---,2
+Rule based-Others/NA---BioInfer,1
+Rule based-Others/NA---CLEF,1
+Rule based-Others/NA---clinical notes,6
+Rule based-Others/NA---i2b2 corpus,5
+Rule based-Others/NA---psychiatric evaluation records,1
+Rule based-Patient management or identification- epilepsy and seizure--discharge summaries,1
+Rule based-Patient management or identification---,1
+Rule based-Patient management or identification---clinical notes,2
+Rule based-Patient management or identification---radiology reports,1
+Rule based-Quality control- Adenocarcinoma--pathology reports,1
+Rule based-Quality control---clinical notes,1
+Rule based-Risk factor- Cardiovascular Diseases--i2b2 corpus,1
+Rule based-Risk factor---CEGS,1
+Rule based-Risk factor---clinical notes,1
+Rule based-Social determinants of health- Diabetes--encounter notes,1
+Rule based-Social determinants of health---,1
+Rule based-Workflow optimization---i2b2 corpus,1
+Tranditional ML-Data privacy---CEGS N-GRID,2
+Tranditional ML-Data privacy---clinical notes,2
+Tranditional ML-Disease- Angiotensin Receptor Antagonists- Drug Prescriptions-clinical notes,1
+Tranditional ML-Disease- Brain Injuries--radiology report,1
+Tranditional ML-Disease- Diabetes Mellitus--i2b2 corpus,1
+Tranditional ML-Disease- Epilepsy--discharge summaries,1
+Tranditional ML-Disease---CLEF,1
+Tranditional ML-Disease---clinical notes,4
+Tranditional ML-Disease---i2b2 corpus,2
+Tranditional ML-Disease---pathology reports,1
+Tranditional ML-Drug-- Adverse Drug Reaction Reporting Systems-clinical notes,1
+Tranditional ML-Drug---CLEF,1
+Tranditional ML-Drug---i2b2 corpus,3
+Tranditional ML-Others/NA---clinical notes,1
+Tranditional ML-Others/NA---discharge summaries,1
+Tranditional ML-Others/NA---i2b2 corpus,5
+Tranditional ML-Others/NA---MIMIC,2
+Tranditional ML-Others/NA---SemEval,1
+Tranditional ML-Patient management or identification- Diabetes Mellitus--clinical notes,1
+Tranditional ML-Patient management or identification---clinical notes,2
+Tranditional ML-Workflow optimization---clinical notes,1
