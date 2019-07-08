@@ -95,7 +95,7 @@ var colors = {
 "DrugTherapy": "#FFEBCD",
 "Appendicitis": "#FAF0E6",
 "BrainDiseases": "#32CD32",
-"end": "#bbbbbb"
+"general": "#bbbbbb"
 };
 
 // Total size of all segments; we set this later, after loading the data.
