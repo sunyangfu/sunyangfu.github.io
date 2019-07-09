@@ -10,12 +10,12 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-  "Drug": "#FFD700",
+"Drug": "#FFD700",
 "Disease": "#FFFF00",
 "QA": "#FF7F50",
 "SDOH": "#FF6347",
 "Riskfactor": "#FF4500",
-"Cohort": "#FF8C00",
+"Cohort": "#FFA500",
 "ADE": "#E6E6FA",
 "Adenocarcinoma": "#D8BFD8",
 "ARA": "#DDA0DD",
@@ -79,6 +79,7 @@ var colors = {
 "ML": "#4682B4",
 "Dictionary": "#9ACD32",
 "Deep": "#00008B",
+"Other":"#FFF0F5",
 };
 
 // Total size of all segments; we set this later, after loading the data.
