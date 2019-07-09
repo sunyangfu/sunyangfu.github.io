@@ -73,6 +73,12 @@ var colors = {
 "echoreports": "#00BFFF",
 "radiologyreports": "#1E90FF",
 "":"#FFF0F5",
+"Rule": "#00FF00",
+"Hybrid": "#008B8B",
+"Others": "#8FBC8F",
+"ML": "#4682B4",
+"Dictionary": "#9ACD32",
+"Deep": "#00008B",
 };
 
 // Total size of all segments; we set this later, after loading the data.
