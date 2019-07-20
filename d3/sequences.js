@@ -49,7 +49,7 @@ var colors = {
 "RadiologyReport": "#9370DB",
 "MicrobiologyReports": "#8A2BE2",
 "Claims": "#9400D3",
-"Dictionary7CFC00",
+"Dictionary", "7CFC00",
 "Hybrid": "#20B2AA",
 "ML": "#4682B4",
 "Rule": "#32CD32",
