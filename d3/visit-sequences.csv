@@ -1,95 +1,95 @@
-Clinical workflow optimization-Data privacy-Clinical notes-Dictionary	1
-Clinical workflow optimization-Data privacy-Clinical notes-Hybrid	1
-Clinical workflow optimization-Data privacy-Clinical notes-ML	1
-Clinical workflow optimization-Data privacy-Psychiatric notes-Hybrid	1
-Clinical workflow optimization-Measurement value extraction-Clinical notes-Deep	2
-Clinical workflow optimization-Measurement value extraction-Clinical notes-Hybrid	5
-Clinical workflow optimization-Measurement value extraction-Clinical notes-ML	2
-Clinical workflow optimization-Measurement value extraction-Clinical notes-Rule	1
-Clinical workflow optimization-Measurement value extraction-Discharge summaries-Hybrid	1
-Clinical workflow optimization-Measurement value extraction-Discharge summaries-ML	1
-Clinical workflow optimization-Measurement value extraction-Pathology report-ML	1
-Clinical workflow optimization-Measurement value extraction-Radiology report-Hybrid	1
-Clinical workflow optimization-Measurement value extraction-Radiology report-ML	1
-"Clinical workflow optimization-Patient management	-Claims data-ML"	1
-"Clinical workflow optimization-Patient management	-Clinical notes-Deep"	1
-"Clinical workflow optimization-Patient management	-Clinical notes-Dictionary"	1
-"Clinical workflow optimization-Patient management	-Clinical notes-Hybrid"	3
-"Clinical workflow optimization-Patient management	-Clinical notes-ML"	1
-"Clinical workflow optimization-Patient management	-Clinical notes-Rule"	4
-"Clinical workflow optimization-Patient management	-Discharge summaries-Hybrid"	1
-"Clinical workflow optimization-Patient management	-Discharge summaries-ML"	2
-"Clinical workflow optimization-Patient management	-Pathology report-ML"	1
-"Clinical workflow optimization-Patient management	-Radiology report-Hybrid"	1
-Clinical workflow optimization-Quality control-Clinical notes-Rule	1
-Clinical workflow optimization-Quality control-Operative report-Dictionary	1
-Clinical workflow optimization-Quality control-Radiology report-ML	1
-Disease study area-Diseases of the circulatory system-Clinical notes-Dictionary	1
-Disease study area-Diseases of the circulatory system-Clinical notes-Hybrid	5
-Disease study area-Diseases of the circulatory system-Clinical notes-ML	2
-Disease study area-Diseases of the circulatory system-Clinical notes-Rule	15
-Disease study area-Diseases of the circulatory system-Discharge summaries-Hybrid	1
-Disease study area-Diseases of the circulatory system-Echocardiogram reports-ML	1
-Disease study area-Diseases of the circulatory system-Radiology report-ML	1
-Disease study area-Diseases of the digestive system-Clinical notes-ML	1
-Disease study area-Diseases of the digestive system-Clinical notes-Rule	1
-Disease study area-Diseases of the digestive system-Radiology report-ML	1
-Disease study area-Diseases of the genitourinary system-Clinical notes-Hybrid	1
-Disease study area-Diseases of the musculoskeletal system and connective tissue-Clinical notes-Hybrid	2
-Disease study area-Diseases of the musculoskeletal system and connective tissue-Clinical notes-Rule	1
-Disease study area-Diseases of the nervous system-Discharge summaries-ML	1
-Disease study area-Diseases of the nervous system-Discharge summaries-Rule	1
-Disease study area-Diseases of the nervous system-Radiology report-Hybrid	1
-Disease study area-Diseases of the respiratory system-Clinical notes-Hybrid	1
-Disease study area-Diseases of the respiratory system-Clinical notes-ML	1
-Disease study area-Endocrine, nutritional and metabolic diseases, and immunity disorders-Clinical notes-Dictionary	1
-Disease study area-endocrine, nutritional and metabolic diseases, and immunity disorders-Clinical notes-Hybrid	1
-Disease study area-Endocrine, nutritional and metabolic diseases, and immunity disorders-Clinical notes-Rule	4
-Disease study area-Endocrine, nutritional and metabolic diseases, and immunity disorders-Radiology report-Hybrid	1
-Disease study area-Infectious and parasitic diseases-Clinical notes-Hybrid	1
-Disease study area-Injury and poisoning-Radiology report-Rule	1
-Disease study area-Mental disorders-Clinical notes-Hybrid	1
-Disease study area-Mental disorders-Clinical notes-Rule	1
-Disease study area-Mental disorders-Discharge summaries-Rule	1
-Disease study area-Mental disorders-Psychiatric notes-Deep	1
-Disease study area-Neoplasms-Clinical notes-Hybrid	1
-Disease study area-Neoplasms-Clinical notes-ML	2
-Disease study area-neoplasms-Clinical notes-Rule	5
-Disease study area-neoplasms-Pathology report-Dictionary	1
-Disease study area-neoplasms-Pathology report-Hybrid	2
-Disease study area-Neoplasms-Pathology report-ML	1
-Disease study area-Neoplasms-Radiology report-Hybrid	1
-Disease study area-Neoplasms-Radiology report-ML	1
-Disease study area-Symptoms, signs, and ill-defined conditions-Clinical notes-Deep	2
-Disease study area-Symptoms, signs, and ill-defined conditions-Clinical notes-Dictionary	1
-Disease study area-Symptoms, signs, and ill-defined conditions-Clinical notes-Hybrid	3
-Disease study area-Symptoms, signs, and ill-defined conditions-Clinical notes-ML	5
-Disease study area-Symptoms, signs, and ill-defined conditions-Clinical notes-Rule	4
-Disease study area-Symptoms, signs, and ill-defined conditions-Discharge summaries-Hybrid	1
-Disease study area-Symptoms, signs, and ill-defined conditions-Discharge summaries-ML	1
-Disease study area-Symptoms, signs, and ill-defined conditions-Discharge summaries-Rule	1
-Disease study area-Symptoms, signs, and ill-defined conditions-Psychiatric notes-Deep	1
-Disease study area-Symptoms, signs, and ill-defined conditions-Psychiatric notes-ML	1
-Disease study area-Symptoms, signs, and ill-defined conditions-Radiology report-ML	1
-Drug-related studies-Adverse drug reaction-Clinical notes-ML	2
-Drug-related studies-Adverse drug reaction-Clinical notes-Rule	1
-Drug-related studies-Adverse drug reaction-Discharge summaries-ML	1
-Drug-related studies-Adverse drug reaction-Discharge summaries-Rule	1
-Drug-related studies-Adverse drug reaction-Microbiology reports-Dictionary	1
-Drug-related studies-Diseases of the digestive system-Clinical notes-Rule	1
-Drug-related studies-Diseases of the musculoskeletal system and connective tissue-Clinical notes-ML	1
-Drug-related studies-Dosage extraction-Clinical notes-Rule	2
-Drug-related studies-Medication extraction-Clinical notes-Dictionary	1
-Drug-related studies-Medication extraction-Clinical notes-Hybrid	3
-Drug-related studies-Medication extraction-Clinical notes-ML	1
-Drug-related studies-Medication extraction-Clinical notes-Rule	6
-Drug-related studies-Medication extraction-Discharge summaries-Hybrid	1
-Drug-related studies-Medication extraction-Discharge summaries-Rule	1
-Drug-related studies-Medication extraction-Radiology report-Hybrid	1
-Drug-related studies-Symptoms, signs, and ill-defined conditions-Clinical notes-Dictionary	1
-Social determinants of health-Diseases of the respiratory system-Clinical notes-Hybrid	1
-Social determinants of health-Endocrine, nutritional and metabolic diseases, and immunity disorders-Discharge summaries-Rule	1
-Social determinants of health-Social Behavior-Clinical notes-Hybrid	1
-Social determinants of health-Social Behavior-Clinical notes-Rule	2
-social determinants of health-Social Behavior-Radiology report-ML	1
-Social determinants of health-Symptoms, signs, and ill-defined conditions-Clinical notes-Hybrid	1
+Clinical_workflow_optimization-Data_privacy-Clinical_notes-Dictionary	1
+Clinical_workflow_optimization-Data_privacy-Clinical_notes-Hybrid	1
+Clinical_workflow_optimization-Data_privacy-Clinical_notes-ML	1
+Clinical_workflow_optimization-Data_privacy-Psychiatric_notes-Hybrid	1
+Clinical_workflow_optimization-Measurement_value_extraction-Clinical_notes-Deep	2
+Clinical_workflow_optimization-Measurement_value_extraction-Clinical_notes-Hybrid	5
+Clinical_workflow_optimization-Measurement_value_extraction-Clinical_notes-ML	2
+Clinical_workflow_optimization-Measurement_value_extraction-Clinical_notes-Rule	1
+Clinical_workflow_optimization-Measurement_value_extraction-Discharge_summaries-Hybrid	1
+Clinical_workflow_optimization-Measurement_value_extraction-Discharge_summaries-ML	1
+Clinical_workflow_optimization-Measurement_value_extraction-Pathology_report-ML	1
+Clinical_workflow_optimization-Measurement_value_extraction-Radiology_report-Hybrid	1
+Clinical_workflow_optimization-Measurement_value_extraction-Radiology_report-ML	1
+"Clinical_workflow_optimization-Patient_management	-Claims_data-ML"	1
+"Clinical_workflow_optimization-Patient_management	-Clinical_notes-Deep"	1
+"Clinical_workflow_optimization-Patient_management	-Clinical_notes-Dictionary"	1
+"Clinical_workflow_optimization-Patient_management	-Clinical_notes-Hybrid"	3
+"Clinical_workflow_optimization-Patient_management	-Clinical_notes-ML"	1
+"Clinical_workflow_optimization-Patient_management	-Clinical_notes-Rule"	4
+"Clinical_workflow_optimization-Patient_management	-Discharge_summaries-Hybrid"	1
+"Clinical_workflow_optimization-Patient_management	-Discharge_summaries-ML"	2
+"Clinical_workflow_optimization-Patient_management	-Pathology_report-ML"	1
+"Clinical_workflow_optimization-Patient_management	-Radiology_report-Hybrid"	1
+Clinical_workflow_optimization-Quality_control-Clinical_notes-Rule	1
+Clinical_workflow_optimization-Quality_control-Operative_report-Dictionary	1
+Clinical_workflow_optimization-Quality_control-Radiology_report-ML	1
+Disease_study_area-Diseases_of_the_circulatory_system-Clinical_notes-Dictionary	1
+Disease_study_area-Diseases_of_the_circulatory_system-Clinical_notes-Hybrid	5
+Disease_study_area-Diseases_of_the_circulatory_system-Clinical_notes-ML	2
+Disease_study_area-Diseases_of_the_circulatory_system-Clinical_notes-Rule	15
+Disease_study_area-Diseases_of_the_circulatory_system-Discharge_summaries-Hybrid	1
+Disease_study_area-Diseases_of_the_circulatory_system-Echocardiogram_reports-ML	1
+Disease_study_area-Diseases_of_the_circulatory_system-Radiology_report-ML	1
+Disease_study_area-Diseases_of_the_digestive_system-Clinical_notes-ML	1
+Disease_study_area-Diseases_of_the_digestive_system-Clinical_notes-Rule	1
+Disease_study_area-Diseases_of_the_digestive_system-Radiology_report-ML	1
+Disease_study_area-Diseases_of_the_genitourinary_system-Clinical_notes-Hybrid	1
+Disease_study_area-Diseases_of_the_musculoskeletal_system_and_connective_tissue-Clinical_notes-Hybrid	2
+Disease_study_area-Diseases_of_the_musculoskeletal_system_and_connective_tissue-Clinical_notes-Rule	1
+Disease_study_area-Diseases_of_the_nervous_system-Discharge_summaries-ML	1
+Disease_study_area-Diseases_of_the_nervous_system-Discharge_summaries-Rule	1
+Disease_study_area-Diseases_of_the_nervous_system-Radiology_report-Hybrid	1
+Disease_study_area-Diseases_of_the_respiratory_system-Clinical_notes-Hybrid	1
+Disease_study_area-Diseases_of_the_respiratory_system-Clinical_notes-ML	1
+Disease_study_area-Endocrine__nutritional_and_metabolic_diseases__and_immunity_disorders-Clinical_notes-Dictionary	1
+Disease_study_area-endocrine__nutritional_and_metabolic_diseases__and_immunity_disorders-Clinical_notes-Hybrid	1
+Disease_study_area-Endocrine__nutritional_and_metabolic_diseases__and_immunity_disorders-Clinical_notes-Rule	4
+Disease_study_area-Endocrine__nutritional_and_metabolic_diseases__and_immunity_disorders-Radiology_report-Hybrid	1
+Disease_study_area-Infectious_and_parasitic_diseases-Clinical_notes-Hybrid	1
+Disease_study_area-Injury_and_poisoning-Radiology_report-Rule	1
+Disease_study_area-Mental_disorders-Clinical_notes-Hybrid	1
+Disease_study_area-Mental_disorders-Clinical_notes-Rule	1
+Disease_study_area-Mental_disorders-Discharge_summaries-Rule	1
+Disease_study_area-Mental_disorders-Psychiatric_notes-Deep	1
+Disease_study_area-Neoplasms-Clinical_notes-Hybrid	1
+Disease_study_area-Neoplasms-Clinical_notes-ML	2
+Disease_study_area-neoplasms-Clinical_notes-Rule	5
+Disease_study_area-neoplasms-Pathology_report-Dictionary	1
+Disease_study_area-neoplasms-Pathology_report-Hybrid	2
+Disease_study_area-Neoplasms-Pathology_report-ML	1
+Disease_study_area-Neoplasms-Radiology_report-Hybrid	1
+Disease_study_area-Neoplasms-Radiology_report-ML	1
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Clinical_notes-Deep	2
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Clinical_notes-Dictionary	1
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Clinical_notes-Hybrid	3
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Clinical_notes-ML	5
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Clinical_notes-Rule	4
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Discharge_summaries-Hybrid	1
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Discharge_summaries-ML	1
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Discharge_summaries-Rule	1
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Psychiatric_notes-Deep	1
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Psychiatric_notes-ML	1
+Disease_study_area-Symptoms__signs__and_illdefined_conditions-Radiology_report-ML	1
+Drugrelated_studies-Adverse_drug_reaction-Clinical_notes-ML	2
+Drugrelated_studies-Adverse_drug_reaction-Clinical_notes-Rule	1
+Drugrelated_studies-Adverse_drug_reaction-Discharge_summaries-ML	1
+Drugrelated_studies-Adverse_drug_reaction-Discharge_summaries-Rule	1
+Drugrelated_studies-Adverse_drug_reaction-Microbiology_reports-Dictionary	1
+Drugrelated_studies-Diseases_of_the_digestive_system-Clinical_notes-Rule	1
+Drugrelated_studies-Diseases_of_the_musculoskeletal_system_and_connective_tissue-Clinical_notes-ML	1
+Drugrelated_studies-Dosage_extraction-Clinical_notes-Rule	2
+Drugrelated_studies-Medication_extraction-Clinical_notes-Dictionary	1
+Drugrelated_studies-Medication_extraction-Clinical_notes-Hybrid	3
+Drugrelated_studies-Medication_extraction-Clinical_notes-ML	1
+Drugrelated_studies-Medication_extraction-Clinical_notes-Rule	6
+Drugrelated_studies-Medication_extraction-Discharge_summaries-Hybrid	1
+Drugrelated_studies-Medication_extraction-Discharge_summaries-Rule	1
+Drugrelated_studies-Medication_extraction-Radiology_report-Hybrid	1
+Drugrelated_studies-Symptoms__signs__and_illdefined_conditions-Clinical_notes-Dictionary	1
+Social_determinants_of_health-Diseases_of_the_respiratory_system-Clinical_notes-Hybrid	1
+Social_determinants_of_health-Endocrine__nutritional_and_metabolic_diseases__and_immunity_disorders-Discharge_summaries-Rule	1
+Social_determinants_of_health-Social_Behavior-Clinical_notes-Hybrid	1
+Social_determinants_of_health-Social_Behavior-Clinical_notes-Rule	2
+social_determinants_of_health-Social_Behavior-Radiology_report-ML	1
+Social_determinants_of_health-Symptoms__signs__and_illdefined_conditions-Clinical_notes-Hybrid	1
