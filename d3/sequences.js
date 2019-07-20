@@ -49,11 +49,11 @@ var colors = {
 "RadiologyReport": "#9370DB",
 "MicrobiologyReports": "#8A2BE2",
 "Claims": "#9400D3",
-"Dictionary": "#7CFC00",
-"Hybrid": "#20B2AA",
-"ML": "#4682B4",
-"Rule": "#32CD32",
-"Deep": "#00008B",
+"Dictionary": "#FF7F50",
+"Hybrid": "#FF6347",
+"ML": "#FF4500",
+"Rule": "#FF8C00",
+"Deep": "#FFA500",
 };
 
 // Total size of all segments; we set this later, after loading the data.
@@ -253,7 +253,7 @@ function drawLegend() {
 
   // Dimensions of legend item: width, height, spacing, radius of rounded rect.
   var li = {
-    w: 75, h: 30, s: 3, r: 3
+    w: 90, h: 30, s: 3, r: 3
   };
 
   var legend = d3.select("#legend").append("svg:svg")
