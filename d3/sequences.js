@@ -41,7 +41,7 @@ var colors = {
 "neoplasms": "#FFFFFF",
 "Operative_report": "#C71585",
 "Pathology_report": "#DB7093",
-"""Patient_management "": ""#FDF5E6"","
+"Patient_management": "#FDF5E6",
 "Psychiatric_notes": "#AFEEEE",
 "Quality_control": "#48D1CC",
 "Radiology_report": "#4682B4",
