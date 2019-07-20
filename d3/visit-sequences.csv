@@ -1,117 +1,117 @@
-Disease-Circulatory-ClinicalNotes-Dictionary	1
-Disease-Circulatory-ClinicalNotes-Hybrid	5
-Disease-Circulatory-ClinicalNotes-ML	3
-Disease-Circulatory-ClinicalNotes-Rule	16
-Disease-Circulatory-DischargeSummaries-Hybrid	1
-Disease-Circulatory-DischargeSummaries-Rule	1
-Disease-Circulatory-EchoReports-ML	1
-Disease-Circulatory-EchoReports-Rule	1
-Disease-Circulatory-RadiologyReport-ML	1
-Disease-Digestive-ClinicalNotes-ML	1
-Disease-Digestive-ClinicalNotes-Rule	2
-Disease-Digestive-OperativeReport-Rule	1
-Disease-Digestive-RadiologyReport-ML	1
-Disease-Digestive-RadiologyReport-Rule	1
-Disease-Endocrine-ClinicalNotes-Dictionary	1
-Disease-Endocrine-ClinicalNotes-Hybrid	1
-Disease-Endocrine-ClinicalNotes-ML	1
-Disease-Endocrine-ClinicalNotes-Rule	4
-Disease-Endocrine-EncounterNotes-Rule	1
-Disease-Endocrine-RadiologyReport-Hybrid	1
-Disease-Genitourinary-ClinicalNotes-Hybrid	1
-Disease-Infectious-ClinicalNotes-Hybrid	1
-Disease-Infectious-EncounterNotes-Rule	1
-Disease-Infectious-OperativeReport-Hybrid	1
-Disease-Injury-RadiologyReport-Rule	1
-Disease-Mental-ClinicalNotes-Hybrid	1
-Disease-Mental-ClinicalNotes-Rule	1
-Disease-Mental-DischargeSummaries-Rule	1
-Disease-Mental-PsychiatricNotes-Deep	1
-Disease-Musculoskeletal-ClinicalNotes-Hybrid	2
-Disease-Musculoskeletal-ClinicalNotes-ML	1
-Disease-Musculoskeletal-ClinicalNotes-Rule	1
-Disease-Musculoskeletal-PathologyReport-ML	1
-Disease-Musculoskeletal-RadiologyReport-Rule	1
-Disease-Neoplasms-ClinicalNotes-Hybrid	1
-Disease-Neoplasms-ClinicalNotes-ML	2
-Disease-Neoplasms-ClinicalNotes-Rule	6
-Disease-Neoplasms-PathologyReport-Dictionary	1
-Disease-Neoplasms-PathologyReport-Hybrid	2
-Disease-Neoplasms-PathologyReport-ML	1
-Disease-Neoplasms-PathologyReport-Rule	2
-Disease-Neoplasms-RadiologyReport-Hybrid	1
-Disease-Neoplasms-RadiologyReport-ML	1
-Disease-Neoplasms-RadiologyReport-Rule	2
-Disease-Nervous-ClinicalNotes-Rule	1
-Disease-Nervous-DischargeSummaries-ML	1
-Disease-Nervous-DischargeSummaries-Rule	1
-Disease-Nervous-RadiologyReport-Hybrid	1
-Disease-Nervous-RadiologyReport-Rule	1
-Disease-Respiratory-ClinicalNotes-Hybrid	1
-Disease-Respiratory-ClinicalNotes-ML	1
-Disease-Respiratory-EchoReports-Rule	1
-Disease-Symptoms-ClinicalNotes-Deep	2
-Disease-Symptoms-ClinicalNotes-Dictionary	1
-Disease-Symptoms-ClinicalNotes-Hybrid	3
-Disease-Symptoms-ClinicalNotes-ML	5
-Disease-Symptoms-ClinicalNotes-Rule	4
-Disease-Symptoms-DischargeSummaries-Hybrid	1
-Disease-Symptoms-DischargeSummaries-ML	1
-Disease-Symptoms-DischargeSummaries-Rule	3
-Disease-Symptoms-PsychiatricNotes-Deep	1
-Disease-Symptoms-PsychiatricNotes-ML	1
-Disease-Symptoms-RadiologyReport-ML	1
-Disease-Symptoms-RadiologyReport-Rule	1
-Drug-ADR-ClinicalNotes-ML	2
-Drug-ADR-ClinicalNotes-Rule	1
-Drug-ADR-DischargeSummaries-ML	1
-Drug-ADR-DischargeSummaries-Rule	1
-Drug-ADR-MicrobiologyReports-Dictionary	1
-Drug-Dosage-ClinicalNotes-Rule	2
-Drug-Endocrine-DischargeSummaries-Rule	1
-Drug-Medication-ClinicalNotes-Dictionary	1
-Drug-Medication-ClinicalNotes-Hybrid	3
-Drug-Medication-ClinicalNotes-ML	1
-Drug-Medication-ClinicalNotes-Rule	6
-Drug-Medication-DischargeSummaries-Hybrid	1
-Drug-Medication-DischargeSummaries-Rule	2
-Drug-Medication-RadiologyReport-Hybrid	1
-Drug-Medication-RadiologyReport-Rule	1
-Drug-Symptoms-ClinicalNotes-Dictionary	1
-SocialHealth-Endocrine-DischargeSummaries-Rule	1
-SocialHealth-Respiratory-ClinicalNotes-Hybrid	1
-SocialHealth-Social_Behavior-ClinicalNotes-Hybrid	2
-SocialHealth-Social_Behavior-ClinicalNotes-Rule	3
-SocialHealth-Social_Behavior-RadiologyReport-ML	1
-SocialHealth-Symptoms-ClinicalNotes-Hybrid	1
-Workflow-Data_privacy-ClinicalNotes-Deep	1
-Workflow-Data_privacy-ClinicalNotes-Dictionary	1
-Workflow-Data_privacy-ClinicalNotes-Hybrid	1
-Workflow-Data_privacy-ClinicalNotes-ML	1
-Workflow-Data_privacy-PsychiatricNotes-Hybrid	1
-Workflow-Measurement-ClinicalNotes-Deep	2
-Workflow-Measurement-ClinicalNotes-Hybrid	5
-Workflow-Measurement-ClinicalNotes-ML	2
-Workflow-Measurement-ClinicalNotes-Rule	1
-Workflow-Measurement-DischargeSummaries-Hybrid	1
-Workflow-Measurement-DischargeSummaries-ML	1
-Workflow-Measurement-DischargeSummaries-Rule	2
-Workflow-Measurement-PathologyReport-ML	1
-Workflow-Measurement-RadiologyReport-Hybrid	1
-Workflow-Measurement-RadiologyReport-ML	1
-Workflow-Measurement-RadiologyReport-Rule	2
-Workflow-Patient_management-ClinicalNotes-Deep	1
-Workflow-Patient_management-ClinicalNotes-Dictionary	1
-Workflow-Patient_management-ClinicalNotes-Hybrid	3
-Workflow-Patient_management-ClinicalNotes-ML	1
-Workflow-Patient_management-ClinicalNotes-Rule	4
-Workflow-Patient_management-DischargeSummaries-Hybrid	1
-Workflow-Patient_management-DischargeSummaries-ML	2
-Workflow-Patient_management-DischargeSummaries-Rule	1
-Workflow-Patient_management-PathologyReport-ML	1
-Workflow-Patient_management-RadiologyReport-Hybrid	1
-Workflow-Quality_control-ClinicalNotes-ML	1
-Workflow-Quality_control-ClinicalNotes-Rule	1
-Workflow-Quality_control-DischargeSummaries-Rule	1
-Workflow-Quality_control-OperativeReport-Dictionary	1
-Workflow-Quality_control-RadiologyReport-ML	1
+Disease-Circulatory-ClinicalNotes-Dictionary,1
+Disease-Circulatory-ClinicalNotes-Hybrid,5
+Disease-Circulatory-ClinicalNotes-ML,3
+Disease-Circulatory-ClinicalNotes-Rule,16
+Disease-Circulatory-DischargeSummaries-Hybrid,1
+Disease-Circulatory-DischargeSummaries-Rule,1
+Disease-Circulatory-EchoReports-ML,1
+Disease-Circulatory-EchoReports-Rule,1
+Disease-Circulatory-RadiologyReport-ML,1
+Disease-Digestive-ClinicalNotes-ML,1
+Disease-Digestive-ClinicalNotes-Rule,2
+Disease-Digestive-OperativeReport-Rule,1
+Disease-Digestive-RadiologyReport-ML,1
+Disease-Digestive-RadiologyReport-Rule,1
+Disease-Endocrine-ClinicalNotes-Dictionary,1
+Disease-Endocrine-ClinicalNotes-Hybrid,1
+Disease-Endocrine-ClinicalNotes-ML,1
+Disease-Endocrine-ClinicalNotes-Rule,4
+Disease-Endocrine-EncounterNotes-Rule,1
+Disease-Endocrine-RadiologyReport-Hybrid,1
+Disease-Genitourinary-ClinicalNotes-Hybrid,1
+Disease-Infectious-ClinicalNotes-Hybrid,1
+Disease-Infectious-EncounterNotes-Rule,1
+Disease-Infectious-OperativeReport-Hybrid,1
+Disease-Injury-RadiologyReport-Rule,1
+Disease-Mental-ClinicalNotes-Hybrid,1
+Disease-Mental-ClinicalNotes-Rule,1
+Disease-Mental-DischargeSummaries-Rule,1
+Disease-Mental-PsychiatricNotes-Deep,1
+Disease-Musculoskeletal-ClinicalNotes-Hybrid,2
+Disease-Musculoskeletal-ClinicalNotes-ML,1
+Disease-Musculoskeletal-ClinicalNotes-Rule,1
+Disease-Musculoskeletal-PathologyReport-ML,1
+Disease-Musculoskeletal-RadiologyReport-Rule,1
+Disease-Neoplasms-ClinicalNotes-Hybrid,1
+Disease-Neoplasms-ClinicalNotes-ML,2
+Disease-Neoplasms-ClinicalNotes-Rule,6
+Disease-Neoplasms-PathologyReport-Dictionary,1
+Disease-Neoplasms-PathologyReport-Hybrid,2
+Disease-Neoplasms-PathologyReport-ML,1
+Disease-Neoplasms-PathologyReport-Rule,2
+Disease-Neoplasms-RadiologyReport-Hybrid,1
+Disease-Neoplasms-RadiologyReport-ML,1
+Disease-Neoplasms-RadiologyReport-Rule,2
+Disease-Nervous-ClinicalNotes-Rule,1
+Disease-Nervous-DischargeSummaries-ML,1
+Disease-Nervous-DischargeSummaries-Rule,1
+Disease-Nervous-RadiologyReport-Hybrid,1
+Disease-Nervous-RadiologyReport-Rule,1
+Disease-Respiratory-ClinicalNotes-Hybrid,1
+Disease-Respiratory-ClinicalNotes-ML,1
+Disease-Respiratory-EchoReports-Rule,1
+Disease-Symptoms-ClinicalNotes-Deep,2
+Disease-Symptoms-ClinicalNotes-Dictionary,1
+Disease-Symptoms-ClinicalNotes-Hybrid,3
+Disease-Symptoms-ClinicalNotes-ML,5
+Disease-Symptoms-ClinicalNotes-Rule,4
+Disease-Symptoms-DischargeSummaries-Hybrid,1
+Disease-Symptoms-DischargeSummaries-ML,1
+Disease-Symptoms-DischargeSummaries-Rule,3
+Disease-Symptoms-PsychiatricNotes-Deep,1
+Disease-Symptoms-PsychiatricNotes-ML,1
+Disease-Symptoms-RadiologyReport-ML,1
+Disease-Symptoms-RadiologyReport-Rule,1
+Drug-ADR-ClinicalNotes-ML,2
+Drug-ADR-ClinicalNotes-Rule,1
+Drug-ADR-DischargeSummaries-ML,1
+Drug-ADR-DischargeSummaries-Rule,1
+Drug-ADR-MicrobiologyReports-Dictionary,1
+Drug-Dosage-ClinicalNotes-Rule,2
+Drug-Endocrine-DischargeSummaries-Rule,1
+Drug-Medication-ClinicalNotes-Dictionary,1
+Drug-Medication-ClinicalNotes-Hybrid,3
+Drug-Medication-ClinicalNotes-ML,1
+Drug-Medication-ClinicalNotes-Rule,6
+Drug-Medication-DischargeSummaries-Hybrid,1
+Drug-Medication-DischargeSummaries-Rule,2
+Drug-Medication-RadiologyReport-Hybrid,1
+Drug-Medication-RadiologyReport-Rule,1
+Drug-Symptoms-ClinicalNotes-Dictionary,1
+SocialHealth-Endocrine-DischargeSummaries-Rule,1
+SocialHealth-Respiratory-ClinicalNotes-Hybrid,1
+SocialHealth-Social_Behavior-ClinicalNotes-Hybrid,2
+SocialHealth-Social_Behavior-ClinicalNotes-Rule,3
+SocialHealth-Social_Behavior-RadiologyReport-ML,1
+SocialHealth-Symptoms-ClinicalNotes-Hybrid,1
+Workflow-Data_privacy-ClinicalNotes-Deep,1
+Workflow-Data_privacy-ClinicalNotes-Dictionary,1
+Workflow-Data_privacy-ClinicalNotes-Hybrid,1
+Workflow-Data_privacy-ClinicalNotes-ML,1
+Workflow-Data_privacy-PsychiatricNotes-Hybrid,1
+Workflow-Measurement-ClinicalNotes-Deep,2
+Workflow-Measurement-ClinicalNotes-Hybrid,5
+Workflow-Measurement-ClinicalNotes-ML,2
+Workflow-Measurement-ClinicalNotes-Rule,1
+Workflow-Measurement-DischargeSummaries-Hybrid,1
+Workflow-Measurement-DischargeSummaries-ML,1
+Workflow-Measurement-DischargeSummaries-Rule,2
+Workflow-Measurement-PathologyReport-ML,1
+Workflow-Measurement-RadiologyReport-Hybrid,1
+Workflow-Measurement-RadiologyReport-ML,1
+Workflow-Measurement-RadiologyReport-Rule,2
+Workflow-Patient_management-ClinicalNotes-Deep,1
+Workflow-Patient_management-ClinicalNotes-Dictionary,1
+Workflow-Patient_management-ClinicalNotes-Hybrid,3
+Workflow-Patient_management-ClinicalNotes-ML,1
+Workflow-Patient_management-ClinicalNotes-Rule,4
+Workflow-Patient_management-DischargeSummaries-Hybrid,1
+Workflow-Patient_management-DischargeSummaries-ML,2
+Workflow-Patient_management-DischargeSummaries-Rule,1
+Workflow-Patient_management-PathologyReport-ML,1
+Workflow-Patient_management-RadiologyReport-Hybrid,1
+Workflow-Quality_control-ClinicalNotes-ML,1
+Workflow-Quality_control-ClinicalNotes-Rule,1
+Workflow-Quality_control-DischargeSummaries-Rule,1
+Workflow-Quality_control-OperativeReport-Dictionary,1
+Workflow-Quality_control-RadiologyReport-ML,1
