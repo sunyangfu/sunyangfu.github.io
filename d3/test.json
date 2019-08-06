@@ -2,7 +2,7 @@
  "name": "ctreview",
  "children": [
   {
-   "name": "nlp",
+   "name": "rule",
    "children": [
     {
      "name": "machineLearning",
@@ -15,5 +15,36 @@
     }
     ]
     }
+     {
+   "name": "machineLearning",
+   "children": [
+    {
+     "name": "health",
+     "children": [
+      {"name": "AgglomerativeCluster", "value": 3},
+      {"name": "CommunityStructure", "value": 4},
+      {"name": "HierarchicalCluster", "value": 2},
+      {"name": "MergeEdge", "value": 3}
+     ]
+    }
+    ]
+    }
+
+     {
+   "name": "deeplearning",
+   "children": [
+    {
+     "name": "machineLearning",
+     "children": [
+      {"name": "AgglomerativeCluster", "value": 1},
+      {"name": "CommunityStructure", "value": 2},
+      {"name": "HierarchicalCluster", "value": 3},
+      {"name": "MergeEdge", "value": 1}
+     ]
+    }
+    ]
+    }
+    
+    
     ]
     }
