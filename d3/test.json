@@ -1,19 +1,20 @@
 {
- "name": "flare",
+ "name": "ctreview",
  "children": [
   {
-   "name": "analytics",
+   "name": "nlp",
    "children": [
     {
-     "name": "cluster",
+     "name": "machineLearning",
      "children": [
-      {"name": "AgglomerativeCluster", "value": 3938},
-      {"name": "CommunityStructure", "value": 3812},
-      {"name": "HierarchicalCluster", "value": 6714},
-      {"name": "MergeEdge", "value": 743}
+      {"name": "AgglomerativeCluster", "value": 1},
+      {"name": "CommunityStructure", "value": 2},
+      {"name": "HierarchicalCluster", "value": 3},
+      {"name": "MergeEdge", "value": 1}
      ]
     }
     ]
     }
     ]
     }
+2
