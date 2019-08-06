@@ -1,50 +1,10 @@
 {
- "name": "ctreview",
- "children": [
-  {
-   "name": "rule",
-   "children": [
-    {
-     "name": "machineLearning",
-     "children": [
-      {"name": "AgglomerativeCluster", "value": 1},
-      {"name": "CommunityStructure", "value": 2},
-      {"name": "HierarchicalCluster", "value": 3},
-      {"name": "MergeEdge", "value": 1}
-     ]
-    }
-    ]
-    }
-     {
-   "name": "fdsa",
-   "children": [
-    {
-     "name": "health",
-     "children": [
-      {"name": "AgglomerativeCluster", "value": 3},
-      {"name": "CommunityStructure", "value": 4},
-      {"name": "HierarchicalCluster", "value": 2},
-      {"name": "MergeEdge", "value": 3}
-     ]
-    }
-    ]
-    }
-
-     {
-   "name": "deeplearning",
-   "children": [
-    {
-     "name": "machineLearning",
-     "children": [
-      {"name": "AgglomerativeCluster", "value": 1},
-      {"name": "CommunityStructure", "value": 2},
-      {"name": "HierarchicalCluster", "value": 3},
-      {"name": "MergeEdge", "value": 1}
-     ]
-    }
-    ]
-    }
-    
-    
-    ]
-    }
+"name":"flare",
+"children":[
+{"name":"Rule","children":[{"name":"Clinicalworkflowoptimization","children":[{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2},{"name":"Dischargesummaries","value":2}]}]}]},
+{"name":"ML","children":[{"name":"Clinicalworkflowoptimization","children":[{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Measurementvalueextraction","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]}]}]},
+{"name":"Hybrid","children":[{"name":"Clinicalworkflowoptimization","children":[{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]},{"name":"Patientmanagement","children":[{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1},{"name":"Dischargesummaries","value":1}]}]}]},
+{"name":"Dictionary","children":[{"name":"Clinicalworkflowoptimization","children":[{"name":"Dataprivacy","children":[{"name":"Clinicalnotes","value":1}]},{"name":"Dataprivacy","children":[{"name":"Clinicalnotes","value":1}]},{"name":"Dataprivacy","children":[{"name":"Clinicalnotes","value":1}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Dataprivacy","children":[{"name":"Clinicalnotes","value":1}]},{"name":"Dataprivacy","children":[{"name":"Clinicalnotes","value":1}]},{"name":"Dataprivacy","children":[{"name":"Clinicalnotes","value":1}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Dataprivacy","children":[{"name":"Clinicalnotes","value":1}]},{"name":"Dataprivacy","children":[{"name":"Clinicalnotes","value":1}]},{"name":"Dataprivacy","children":[{"name":"Clinicalnotes","value":1}]}]}]},
+{"name":"Deep","children":[{"name":"Clinicalworkflowoptimization","children":[{"name":"Patientmanagement","children":[{"name":"Clinicalnotes","value":1}]},{"name":"Patientmanagement","children":[{"name":"Clinicalnotes","value":1}]},{"name":"Patientmanagement","children":[{"name":"Clinicalnotes","value":1}]}]},{"name":"Clinicalworkflowoptimization","children":[{"name":"Patientmanagement","children":[{"name":"Clinicalnotes","value":1}]},{"name":"Patientmanagement","children":[{"name":"Clinicalnotes","value":1}]},{"name":"Patientmanagement","children":[{"name":"Clinicalnotes","value":1}]}]}]}
+]
+}
