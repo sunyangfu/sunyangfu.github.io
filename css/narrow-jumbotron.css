@@ -1,0 +1,165 @@
+/* Space out content a bit */
+body {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-right: 1.25rem;
+  padding-left: 1.25rem;
+}
+
+/* Custom page header */
+.header {
+  padding-bottom: 1rem;
+  border-bottom: 0.025rem solid #024794;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 3rem; /* Make the masthead heading the same height as the navigation */
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 1.5rem;
+  color: #777;
+  border-top: 0.025rem solid #024794;
+}
+
+/* Customize container */
+@media (min-width: 48rem) {
+  .container {
+    max-width: 65rem;
+  }
+}
+.container-narrow > hr {
+  margin: 3rem 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 0.025rem solid #024794;
+}
+.jumbotron .btn {
+  padding: 0.75rem 1.5rem;
+  font-size: 1.5rem;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 3rem 0;
+}
+.marketing p + h4 {
+  margin-top: 1.25rem;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 48rem) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
+
+ /* RD: making vertical align great again */
+.table > tbody > tr > td {
+     vertical-align: middle;
+}
+
+h3{
+  margin-top: 0rem;
+  color:#024794;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+h4{
+  margin-top: 2rem;
+}
+
+h6{
+  text-transform: uppercase;
+  font-weight:600;
+  color:#024794;
+}
+
+#header {
+  box-sizing: border-box;
+  padding: 0rem;
+  display: table;
+  margin-bottom: 0.5rem;
+  width: 100%;
+  height: 3rem;
+}
+
+.logo {
+    background: #000;
+    text-align: center;
+    width: 70px;
+    color: #fff;
+}
+
+.logo,
+.menu {
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.menu ul {
+  text-align: right;
+  margin-bottom: 0rem;
+}
+
+.menu ul li {
+  display: inline-block;
+  vertical-align: top;
+  padding: 1rem;
+  text-decoration: none;
+  margin-left: 1rem;
+}
+
+.menu ul li:hover {
+  -moz-border-radius-topleft: 0.5rem;
+  -moz-border-radius-topright: 0.5rem;
+  -moz-border-radius-bottomright: 0.5rem;
+  -moz-border-radius-bottomleft: 0.5rem;
+  -webkit-border-radius: 0.5rem;
+  border-radius: 0.5rem;
+  background: #EEEEEE;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: none;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+ol li {
+  margin-bottom: 1rem;
+}
