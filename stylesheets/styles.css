@@ -275,3 +275,31 @@ footer {
     color:#444;
   }
 }
+
+/* Add this CSS to your existing stylesheet or create a new one */
+.menu {
+  /* Remove the background-color property to make the menu transparent */
+  overflow: hidden;
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  float: left; /* Display menu items side by side */
+}
+
+.menu a {
+  display: block;
+  color: #000; /* Text color for menu items (change as needed) */
+  text-align: center;
+  padding: 14px 16px; /* Adjust padding as needed */
+  text-decoration: none;
+}
+
+.menu a:hover {
+  color: #555; /* Background color on hover (you can change this if needed) */
+}
