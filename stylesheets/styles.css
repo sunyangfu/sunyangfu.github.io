@@ -62,7 +62,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:880px;
+  width:1110px;
   margin:0 auto;
 }
 
@@ -111,7 +111,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:300px;
   float:left;
   position:;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -177,7 +177,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:700px;
   float:right;
   padding-bottom:50px;
 }
