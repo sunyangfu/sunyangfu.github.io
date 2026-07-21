@@ -276,6 +276,72 @@ footer {
   }
 }
 
+/* Single-column layout override (index.html only) */
+body.single-column .wrapper {
+  width: auto;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+body.single-column header,
+body.single-column section {
+  float: none;
+  width: auto;
+  padding-bottom: 0;
+}
+
+body.single-column .profile-header {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+body.single-column .profile-picture {
+  margin: 0 auto 20px;
+}
+
+body.single-column .profile-header p {
+  margin: 0 0 10px;
+}
+
+body.single-column .social-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 20px 0 12px;
+}
+
+body.single-column .social-links a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+}
+
+body.single-column .contact-email {
+  margin-bottom: 0;
+}
+
+body.single-column section {
+  margin-bottom: 10px;
+}
+
+body.single-column section p {
+  text-align: left;
+}
+
+body.single-column hr.divider {
+  border: 0;
+  border-top: 1px solid #e5e5e5;
+  margin: 35px 0;
+}
+
+@media (max-width: 700px) {
+  body.single-column .wrapper {
+    max-width: 100%;
+  }
+}
+
 /* Add this CSS to your existing stylesheet or create a new one */
 .menu {
   /* Remove the background-color property to make the menu transparent */
