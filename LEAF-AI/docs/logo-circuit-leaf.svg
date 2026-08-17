@@ -1,0 +1,23 @@
+<svg width="220" height="260" viewBox="0 0 200 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Concept 2: Circuit-Vein Leaf — bold solid leaf mark with circuit-trace veins. Reads well small (favicon/nav) -->
+  <path d="M100,12 C152,40 176,98 152,152 C140,178 118,204 100,228
+           C82,204 60,178 48,152 C24,98 48,40 100,12 Z"
+        fill="#2F5233" />
+
+  <!-- circuit-style veins cut out in background color -->
+  <g stroke="#FAF7F0" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100,50 L100,90 L128,90 L128,110" />
+    <path d="M100,90 L72,90 L72,112" />
+    <path d="M100,130 L100,165 L124,165 L124,182" />
+    <path d="M100,130 L76,130 L76,150" />
+    <path d="M100,50 L100,205" />
+  </g>
+  <g fill="#C08A3E">
+    <circle cx="100" cy="50" r="4.5" />
+    <circle cx="128" cy="110" r="3.5" />
+    <circle cx="72" cy="112" r="3.5" />
+    <circle cx="124" cy="182" r="3.5" />
+    <circle cx="76" cy="150" r="3.5" />
+    <circle cx="100" cy="205" r="4.5" />
+  </g>
+</svg>

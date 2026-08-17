@@ -1,0 +1,45 @@
+<svg width="220" height="260" viewBox="0 0 200 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Concept 1: Network Leaf — a leaf silhouette formed by a node graph, evoking "learning ecosystem" + AI network -->
+  <path d="M100,15 C150,45 172,100 150,155 C140,180 120,205 100,225
+           C80,205 60,180 50,155 C28,100 50,45 100,15 Z"
+        fill="#2F5233" opacity="0.06" />
+
+  <!-- edges: outline -->
+  <g stroke="#2F5233" stroke-width="1.6" opacity="0.55" fill="none">
+    <path d="M100,15 L150,45 L172,100 L150,155 L120,195 L100,225 L80,195 L50,155 L28,100 L50,45 Z" />
+    <!-- veins -->
+    <line x1="100" y1="60" x2="100" y2="200" />
+    <line x1="100" y1="90" x2="132" y2="75" />
+    <line x1="100" y1="90" x2="68" y2="75" />
+    <line x1="100" y1="130" x2="138" y2="118" />
+    <line x1="100" y1="130" x2="62" y2="118" />
+    <line x1="100" y1="165" x2="126" y2="155" />
+    <line x1="100" y1="165" x2="74" y2="155" />
+  </g>
+
+  <!-- nodes -->
+  <g fill="#2F5233">
+    <circle cx="100" cy="15" r="5" />
+    <circle cx="150" cy="45" r="4.5" />
+    <circle cx="172" cy="100" r="4.5" />
+    <circle cx="150" cy="155" r="4.5" />
+    <circle cx="120" cy="195" r="4.5" />
+    <circle cx="100" cy="225" r="5" />
+    <circle cx="80" cy="195" r="4.5" />
+    <circle cx="50" cy="155" r="4.5" />
+    <circle cx="28" cy="100" r="4.5" />
+    <circle cx="50" cy="45" r="4.5" />
+  </g>
+  <g fill="#C08A3E">
+    <circle cx="100" cy="60" r="4" />
+    <circle cx="100" cy="90" r="4" />
+    <circle cx="100" cy="130" r="4" />
+    <circle cx="100" cy="165" r="4" />
+    <circle cx="132" cy="75" r="3.2" />
+    <circle cx="68" cy="75" r="3.2" />
+    <circle cx="138" cy="118" r="3.2" />
+    <circle cx="62" cy="118" r="3.2" />
+    <circle cx="126" cy="155" r="3.2" />
+    <circle cx="74" cy="155" r="3.2" />
+  </g>
+</svg>

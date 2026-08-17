@@ -1,0 +1,13 @@
+<svg width="320" height="70" viewBox="0 0 320 70" xmlns="http://www.w3.org/2000/svg">
+  <!-- Concept 3: Wordmark lockup — small leaf glyph standing in for the hyphen between LEAF and AI -->
+  <text x="0" y="46" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#23261F" letter-spacing="1">LEAF</text>
+
+  <!-- small leaf glyph as separator -->
+  <g transform="translate(150,18)">
+    <path d="M12,0 C22,4 26,14 20,24 C17,29 12,33 6,35 C0,33 -5,29 -8,24
+             C-14,14 -10,4 0,0 C4,-1 8,-1 12,0 Z"
+          fill="#2F5233" transform="scale(0.7)"/>
+  </g>
+
+  <text x="185" y="46" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#2F5233" letter-spacing="1">AI</text>
+</svg>
